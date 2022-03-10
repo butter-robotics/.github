@@ -1,2 +1,1 @@
-# .github
-Butter Robotics Profile
+# Butter Robotics Profile
