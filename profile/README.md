@@ -1,6 +1,6 @@
 <!-- ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-<p align="center"><img src="https://github.com/butter-robotics/.github/blob/main/profile/assets/logos/butter-robotics-long-logo.png?raw=true" width="240"></p>
+<p align="center"><img src="https://github.com/butter-robotics/.github/blob/main/profile/assets/logos/butter-robotics-long-logo.png?raw=true" width="360"></p>
 
 <!-- <div align="center" style="display: block">
 
